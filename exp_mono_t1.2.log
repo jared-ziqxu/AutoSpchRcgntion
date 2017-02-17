@@ -1,0 +1,102 @@
+------------>>testing gaussian number 2880 <<-------------
+../exp/mono_2880 exists, delete.
+7 minutes and 55 seconds for training with gaussian parameter 2880. total: 475 seconds.
+6 minutes and 35 seconds for evaluation with gaussian parameter 2880. total: 395 seconds
+%WER 29.9 | 192 7215 | 73.6 18.6 7.8 3.5 29.9 100.0 | -0.686 | exp/mono_2880/decode_test/score_4/ctm_39phn.filt.sys
+------------>>testing gaussian number 3024 <<-------------
+../exp/mono_3024 exists, delete.
+8 minutes and 22 seconds for training with gaussian parameter 3024. total: 502 seconds.
+6 minutes and 17 seconds for evaluation with gaussian parameter 3024. total: 377 seconds
+%WER 29.8 | 192 7215 | 73.6 18.6 7.7 3.4 29.8 100.0 | -0.771 | exp/mono_3024/decode_test/score_4/ctm_39phn.filt.sys
+------------>>testing gaussian number 3168 <<-------------
+../exp/mono_3168 exists, delete.
+7 minutes and 45 seconds for training with gaussian parameter 3168. total: 465 seconds.
+5 minutes and 8 seconds for evaluation with gaussian parameter 3168. total: 308 seconds
+%WER 29.6 | 192 7215 | 73.2 18.1 8.7 2.8 29.6 100.0 | -0.429 | exp/mono_3168/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 3312 <<-------------
+../exp/mono_3312 exists, delete.
+7 minutes and 51 seconds for training with gaussian parameter 3312. total: 471 seconds.
+6 minutes and 9 seconds for evaluation with gaussian parameter 3312. total: 369 seconds
+%WER 29.6 | 192 7215 | 73.3 18.2 8.5 2.9 29.6 100.0 | -0.386 | exp/mono_3312/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 3456 <<-------------
+../exp/mono_3456 exists, delete.
+7 minutes and 29 seconds for training with gaussian parameter 3456. total: 449 seconds.
+6 minutes and 49 seconds for evaluation with gaussian parameter 3456. total: 409 seconds
+%WER 29.4 | 192 7215 | 73.3 18.4 8.4 2.7 29.4 100.0 | -0.455 | exp/mono_3456/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 3600 <<-------------
+../exp/mono_3600 exists, delete.
+6 minutes and 41 seconds for training with gaussian parameter 3600. total: 401 seconds.
+4 minutes and 43 seconds for evaluation with gaussian parameter 3600. total: 283 seconds
+%WER 29.9 | 192 7215 | 72.9 18.4 8.7 2.7 29.9 100.0 | -0.444 | exp/mono_3600/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 3744 <<-------------
+../exp/mono_3744 exists, delete.
+7 minutes and 51 seconds for training with gaussian parameter 3744. total: 471 seconds.
+5 minutes and 49 seconds for evaluation with gaussian parameter 3744. total: 349 seconds
+%WER 29.7 | 192 7215 | 73.9 18.2 8.0 3.6 29.7 100.0 | -0.781 | exp/mono_3744/decode_test/score_4/ctm_39phn.filt.sys
+------------>>testing gaussian number 3888 <<-------------
+../exp/mono_3888 exists, delete.
+6 minutes and 41 seconds for training with gaussian parameter 3888. total: 401 seconds.
+4 minutes and 51 seconds for evaluation with gaussian parameter 3888. total: 291 seconds
+%WER 29.3 | 192 7215 | 73.4 18.1 8.4 2.8 29.3 100.0 | -0.357 | exp/mono_3888/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 4032 <<-------------
+../exp/mono_4032 exists, delete.
+7 minutes and 15 seconds for training with gaussian parameter 4032. total: 435 seconds.
+5 minutes and 16 seconds for evaluation with gaussian parameter 4032. total: 316 seconds
+%WER 29.7 | 192 7215 | 72.9 18.5 8.6 2.6 29.7 100.0 | -0.375 | exp/mono_4032/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 4176 <<-------------
+../exp/mono_4176 exists, delete.
+7 minutes and 28 seconds for training with gaussian parameter 4176. total: 448 seconds.
+5 minutes and 12 seconds for evaluation with gaussian parameter 4176. total: 312 seconds
+%WER 29.0 | 192 7215 | 73.8 17.8 8.4 2.8 29.0 100.0 | -0.422 | exp/mono_4176/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 4320 <<-------------
+../exp/mono_4320 exists, delete.
+9 minutes and 7 seconds for training with gaussian parameter 4320. total: 547 seconds.
+6 minutes and 28 seconds for evaluation with gaussian parameter 4320. total: 388 seconds
+%WER 29.0 | 192 7215 | 74.3 18.2 7.6 3.3 29.0 100.0 | -0.714 | exp/mono_4320/decode_test/score_4/ctm_39phn.filt.sys
+------------>>testing gaussian number 4464 <<-------------
+../exp/mono_4464 exists, delete.
+9 minutes and 4 seconds for training with gaussian parameter 4464. total: 544 seconds.
+7 minutes and 1 seconds for evaluation with gaussian parameter 4464. total: 421 seconds
+%WER 29.6 | 192 7215 | 72.7 17.9 9.4 2.3 29.6 100.0 | -0.225 | exp/mono_4464/decode_test/score_6/ctm_39phn.filt.sys
+------------>>testing gaussian number 4608 <<-------------
+../exp/mono_4608 exists, delete.
+8 minutes and 23 seconds for training with gaussian parameter 4608. total: 503 seconds.
+5 minutes and 52 seconds for evaluation with gaussian parameter 4608. total: 352 seconds
+%WER 29.1 | 192 7215 | 73.6 17.9 8.4 2.7 29.1 100.0 | -0.412 | exp/mono_4608/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 4752 <<-------------
+../exp/mono_4752 exists, delete.
+7 minutes and 29 seconds for training with gaussian parameter 4752. total: 449 seconds.
+5 minutes and 29 seconds for evaluation with gaussian parameter 4752. total: 329 seconds
+%WER 28.9 | 192 7215 | 74.4 18.1 7.5 3.2 28.9 100.0 | -0.714 | exp/mono_4752/decode_test/score_4/ctm_39phn.filt.sys
+------------>>testing gaussian number 4896 <<-------------
+../exp/mono_4896 exists, delete.
+10 minutes and 6 seconds for training with gaussian parameter 4896. total: 606 seconds.
+6 minutes and 0 seconds for evaluation with gaussian parameter 4896. total: 360 seconds
+%WER 28.8 | 192 7215 | 74.5 18.1 7.5 3.3 28.8 100.0 | -0.704 | exp/mono_4896/decode_test/score_4/ctm_39phn.filt.sys
+------------>>testing gaussian number 5040 <<-------------
+../exp/mono_5040 exists, delete.
+10 minutes and 6 seconds for training with gaussian parameter 5040. total: 606 seconds.
+6 minutes and 46 seconds for evaluation with gaussian parameter 5040. total: 406 seconds
+%WER 29.3 | 192 7215 | 73.0 17.7 9.3 2.3 29.3 100.0 | -0.210 | exp/mono_5040/decode_test/score_6/ctm_39phn.filt.sys
+------------>>testing gaussian number 5184 <<-------------
+../exp/mono_5184 exists, delete.
+11 minutes and 9 seconds for training with gaussian parameter 5184. total: 669 seconds.
+10 minutes and 8 seconds for evaluation with gaussian parameter 5184. total: 608 seconds
+%WER 29.3 | 192 7215 | 72.9 17.8 9.2 2.2 29.3 100.0 | -0.165 | exp/mono_5184/decode_test/score_6/ctm_39phn.filt.sys
+------------>>testing gaussian number 5328 <<-------------
+../exp/mono_5328 exists, delete.
+20 minutes and 59 seconds for training with gaussian parameter 5328. total: 1259 seconds.
+7 minutes and 21 seconds for evaluation with gaussian parameter 5328. total: 441 seconds
+%WER 29.0 | 192 7215 | 73.3 17.5 9.2 2.2 29.0 100.0 | -0.231 | exp/mono_5328/decode_test/score_6/ctm_39phn.filt.sys
+------------>>testing gaussian number 5472 <<-------------
+../exp/mono_5472 exists, delete.
+21 minutes and 29 seconds for training with gaussian parameter 5472. total: 1289 seconds.
+16 minutes and 37 seconds for evaluation with gaussian parameter 5472. total: 997 seconds
+%WER 28.8 | 192 7215 | 74.4 18.2 7.5 3.1 28.8 100.0 | -0.709 | exp/mono_5472/decode_test/score_4/ctm_39phn.filt.sys
+------------>>testing gaussian number 5616 <<-------------
+../exp/mono_5616 exists, delete.
+15 minutes and 14 seconds for training with gaussian parameter 5616. total: 914 seconds.
+6 minutes and 25 seconds for evaluation with gaussian parameter 5616. total: 385 seconds
+%WER 29.3 | 192 7215 | 73.3 18.2 8.5 2.6 29.3 100.0 | -0.357 | exp/mono_5616/decode_test/score_5/ctm_39phn.filt.sys
+------------>>testing gaussian number 5760 <<-------------
+../exp/mono_5760 exists, delete.
