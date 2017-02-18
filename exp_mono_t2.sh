@@ -8,7 +8,7 @@ echo "Copying data/test for plp usage ..."
 cp -r data/test data/test_plp || exit 1
 
 echo "step1.create plp features..."
-for train_plp test_plp; do 
+for dir in train_plp test_plp; do 
     ret1=$(cd ..; steps/make_plp.sh data/$dir exp/make_plp/$dir plp)
 done
 
@@ -19,4 +19,4 @@ ret3=$(cd ..; utils/mkgraph.sh --mono data/lang_test_bg/ exp/plp/ exp/plp/graph)
 echo "step4.decode..."
 ret4=$(cd ..; steps/decode.sh --nj 4 exp/plp/graph/ data/test exp/plp/decode_test)
 echo "step5.generate WER..."
-ret5=$(cd ..; grep Sum exp/mono/decode_test/score_*/*.sys | utils/best_wer.sh)
+ret5=$(cd ..; grep Sum exp/plp/decode_test/score_*/*.sys | utils/best_wer.sh)
