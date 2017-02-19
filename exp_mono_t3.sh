@@ -5,7 +5,7 @@ best_gauss=4896
 echo "Create a export dir for delta test"
 mkdir exp/delta || exit 1
 
-echo "Copying data/train for plp usage ..."
+echo "Copying data/train for delta test ..."
 cp -rf exp/mono_$best_gauss exp/delta/ali || exit 1
 
 echo "step1.Train delta model and keep the leaf number and gauss number in lab3 ..."
